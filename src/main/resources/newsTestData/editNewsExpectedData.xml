@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <News news_id="2" short_text="short1" full_text="full1" title="title1" creation_date="2015-10-12" modification_date="2015-10-15"/>
+
+</dataset>
